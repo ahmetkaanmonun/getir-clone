@@ -1,0 +1,29 @@
+nav {
+  background-color: #4f3792;
+}
+.navbar {
+  max-height: 50px;
+
+  overflow: hidden;
+}
+.nav__links {
+  height: 100%;
+  color: rgb(219, 219, 255);
+}
+.nav-link {
+}
+.nav__login {
+  color: rgb(219, 219, 255);
+  display: flex;
+  align-items: center;
+}
+.login-box {
+  padding: 7px 12px 7px 16px;
+  font-size: 18px;
+}
+.border-getir {
+  background-color: #6b55b3;
+}
+.border--getir:hover {
+  background-color: #6b55b3;
+}
