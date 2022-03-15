@@ -3,7 +3,7 @@ import "./Nav.css";
 function Nav() {
   return (
     <nav>
-      <div className="navbar container-fluid d-flex justify-content-between align-items-center">
+      <div className="navbar  container-fluid d-flex justify-content-between align-items-center">
         <div className="nav__links d-flex ml-5">
           <div className="nav-link border-bottom-0 rounded-top border-getir">
             <h5 className="text-warning">getir</h5>
