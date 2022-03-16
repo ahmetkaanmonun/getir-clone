@@ -1,0 +1,35 @@
+.favorites-box {
+  width: 138px;
+  height: 300px;
+  padding: 12px 4px 8px 4px;
+}
+.image-box {
+  width: 120px;
+  height: 120px;
+  position: relative;
+}
+.favorites-image {
+  width: 120px;
+  height: 120px;
+}
+.icon-box {
+  position: absolute;
+  bottom: 80px;
+  left: 80px;
+  width: 32px;
+  height: 32px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.icon-color {
+  color: #5d3ebc;
+}
+.price-text {
+  color: #5d3ebc;
+}
+.title-text {
+  text-align: center;
+  font-weight: 600;
+}
+.count-text {
+  font-weight: 400;
+}
